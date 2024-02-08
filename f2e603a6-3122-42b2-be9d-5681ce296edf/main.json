@@ -1,7 +1,1 @@
-{
-  "name": "John Doe",
-  "age": 30,
-  "city": "New York",
-  "email": "john.doe@example.com",
-  "isStudent": false
-}
+ewogICJuYW1lIjogIkpvaG4gRG9lIiwKICAiYWdlIjogMzAsCiAgImNpdHkiOiAiTmV3IFlvcmsiLAogICJlbWFpbCI6ICJqb2huLmRvZUBleGFtcGxlLmNvbSIsCiAgImlzU3R1ZGVudCI6IGZhbHNlCn0=
